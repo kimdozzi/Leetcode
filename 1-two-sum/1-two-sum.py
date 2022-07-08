@@ -9,5 +9,6 @@ class Solution:
                     lst.append(i)
                     lst.append(j)
         
+        lst.sort()
         return lst
     
